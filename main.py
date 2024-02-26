@@ -1,6 +1,3 @@
-from aiogram import Bot, Dispatcher, types
-# from aiogram.filters import CommandStart
-
 from config import BOT_TOKEN
 from aiogram import Dispatcher, Bot
 from aiogram.filters import Command
