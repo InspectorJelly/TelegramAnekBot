@@ -1,4 +1,3 @@
-from config import BOT_TOKEN
 from aiogram import Dispatcher, Bot
 from aiogram.filters import Command
 from core.settings import settings
